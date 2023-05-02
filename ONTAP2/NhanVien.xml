@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="NhanVien.xslt"?>
+<DS>
+  <CongTy TenCT="Công ty dược Nam Hà">
+    <DonVi>
+      <MaDV>dv01</MaDV>
+      <TenDV>Phòng kế toán</TenDV>
+      <DienThoai>092321312</DienThoai>
+      <NhanVien>
+        <MaNV>nv01</MaNV>
+        <HoTen>Nguyễn Thị Giải</HoTen>
+        <NgaySinh>1999-09-09</NgaySinh>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgayCong>11</NgayCong>
+      </NhanVien>
+
+      <NhanVien>
+        <MaNV>nv02</MaNV>
+        <HoTen>Trần Văn Thoát</HoTen>
+        <NgaySinh>1989-12-12</NgaySinh>
+        <GioiTinh>Nam</GioiTinh>
+        <NgayCong>20</NgayCong>
+      </NhanVien>
+
+      <NhanVien>
+        <MaNV>nv03</MaNV>
+        <HoTen>Trần Thị Phúc</HoTen>
+        <NgaySinh>1999-09-09</NgaySinh>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgayCong>30</NgayCong>
+      </NhanVien>
+    </DonVi>
+
+    <DonVi>
+      <MaDV>dv02</MaDV>
+      <TenDV>Phòng hành chính</TenDV>
+      <DienThoai>092321312</DienThoai>
+      <NhanVien>
+        <MaNV>nv04</MaNV>
+        <HoTen>Nguyễn Thị Giải</HoTen>
+        <NgaySinh>1999-09-09</NgaySinh>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgayCong>15</NgayCong>
+      </NhanVien>
+
+      <NhanVien>
+        <MaNV>nv05</MaNV>
+        <HoTen>Trần Văn Thoát</HoTen>
+        <NgaySinh>1989-12-12</NgaySinh>
+        <GioiTinh>Nam</GioiTinh>
+        <NgayCong>27</NgayCong>
+      </NhanVien>
+
+      <NhanVien>
+        <MaNV>nv06</MaNV>
+        <HoTen>Trần Thị Phúc</HoTen>
+        <NgaySinh>1999-09-09</NgaySinh>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgayCong>24</NgayCong>
+      </NhanVien>
+    </DonVi>
+  </CongTy>
+
+  <CongTy TenCT="Công ty GYM FINESS">
+    <DonVi>
+      <MaDV>dv03</MaDV>
+      <TenDV>Phòng tài vụ</TenDV>
+      <DienThoai>092321312</DienThoai>
+      <NhanVien>
+        <MaNV>nv07</MaNV>
+        <HoTen>Nguyễn Thị Giải</HoTen>
+        <NgaySinh>1999-09-09</NgaySinh>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgayCong>29</NgayCong>
+      </NhanVien>
+
+      <NhanVien>
+        <MaNV>nv08</MaNV>
+        <HoTen>Trần Văn Thoát</HoTen>
+        <NgaySinh>1989-12-12</NgaySinh>
+        <GioiTinh>Nam</GioiTinh>
+        <NgayCong>18</NgayCong>
+      </NhanVien>
+
+      <NhanVien>
+        <MaNV>nv09</MaNV>
+        <HoTen>Trần Thị Phúc</HoTen>
+        <NgaySinh>1999-09-09</NgaySinh>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgayCong>26</NgayCong>
+      </NhanVien>
+    </DonVi>
+
+    <DonVi>
+      <MaDV>dv04</MaDV>
+      <TenDV>Phòng kiểm kê</TenDV>
+      <DienThoai>092321312</DienThoai>
+      <NhanVien>
+        <MaNV>nv10</MaNV>
+        <HoTen>Nguyễn Thị Giải</HoTen>
+        <NgaySinh>1999-09-09</NgaySinh>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgayCong>22</NgayCong>
+      </NhanVien>
+
+      <NhanVien>
+        <MaNV>nv11</MaNV>
+        <HoTen>Trần Văn Thoát</HoTen>
+        <NgaySinh>1989-12-12</NgaySinh>
+        <GioiTinh>Nam</GioiTinh>
+        <NgayCong>21</NgayCong>
+      </NhanVien>
+
+      <NhanVien>
+        <MaNV>nv12</MaNV>
+        <HoTen>Trần Thị Phúc</HoTen>
+        <NgaySinh>1999-09-09</NgaySinh>
+        <GioiTinh>Nữ</GioiTinh>
+        <NgayCong>16</NgayCong>
+      </NhanVien>
+    </DonVi>
+  </CongTy>
+</DS>

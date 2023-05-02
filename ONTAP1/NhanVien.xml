@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Goc xmlns="http://tempuri.org/NhanVien.xsd">
+  <CongTy TenCT="Công ty dược Nam Hà">
+    <DonVi MaDV="dv0001">
+      <TenDV>Phòng kế toán</TenDV>
+      <NhanVien MaNV="nv01" DienThoai="097323232">
+        <HoTen>Phan Bá Giang</HoTen>
+        <NgaySinh>1998-06-20</NgaySinh>
+        <GioiTinh>Nam</GioiTinh>
+        <NgayCong>31</NgayCong>
+      </NhanVien>
+    </DonVi>
+  </CongTy>
+</Goc>

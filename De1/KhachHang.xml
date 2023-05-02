@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<danhsachkhachhang>
+  <khachhang makh="101" chinhanh="hanoi">
+    <hoten>Nguyễn Văn Hạnh</hoten>
+    <diachi>Thanh Hoá</diachi>
+    <sdt>0922123232</sdt>
+  </khachhang>
+</danhsachkhachhang>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DSHV>
+  <HocVien ma="hv01" NgaySinh="1990-04-23">
+    <HoTen>Trần Thị Giải</HoTen>
+    <GioiTinh>Nữ</GioiTinh>
+  </HocVien>
+  <HocVien ma="hv02" NgaySinh="1991-02-12">
+    <HoTen>Nguyễn Văn Thoát</HoTen>
+    <GioiTinh>Nam</GioiTinh>
+  </HocVien>
+  <HocVien ma="hv03" NgaySinh="1990-12-21">
+    <HoTen>Trần Văn Hạnh</HoTen>
+    <GioiTinh>Nam</GioiTinh>
+  </HocVien>
+  <HocVien ma="hv04" NgaySinh="1998/06/20">
+    <HoTen>Phan Bá Giang</HoTen>
+    <GioiTinh>Nam</GioiTinh>
+  </HocVien>
+</DSHV>

@@ -1,0 +1,10 @@
+D:\K2 - Nam3\XML\LamDeKT\DeKT\De1\bin\Debug\De1.exe.config
+D:\K2 - Nam3\XML\LamDeKT\DeKT\De1\bin\Debug\De1.exe
+D:\K2 - Nam3\XML\LamDeKT\DeKT\De1\bin\Debug\De1.pdb
+D:\K2 - Nam3\XML\LamDeKT\DeKT\De1\obj\Debug\De1.csprojAssemblyReference.cache
+D:\K2 - Nam3\XML\LamDeKT\DeKT\De1\obj\Debug\De1.Form1.resources
+D:\K2 - Nam3\XML\LamDeKT\DeKT\De1\obj\Debug\De1.Properties.Resources.resources
+D:\K2 - Nam3\XML\LamDeKT\DeKT\De1\obj\Debug\De1.csproj.GenerateResource.cache
+D:\K2 - Nam3\XML\LamDeKT\DeKT\De1\obj\Debug\De1.csproj.CoreCompileInputs.cache
+D:\K2 - Nam3\XML\LamDeKT\DeKT\De1\obj\Debug\De1.exe
+D:\K2 - Nam3\XML\LamDeKT\DeKT\De1\obj\Debug\De1.pdb

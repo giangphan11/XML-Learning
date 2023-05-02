@@ -1,0 +1,11 @@
+D:\K2 - Nam3\XML\LamDeKT\DeKT\BLL\bin\Debug\BLL.dll
+D:\K2 - Nam3\XML\LamDeKT\DeKT\BLL\bin\Debug\BLL.pdb
+D:\K2 - Nam3\XML\LamDeKT\DeKT\BLL\bin\Debug\DAL.dll
+D:\K2 - Nam3\XML\LamDeKT\DeKT\BLL\bin\Debug\DTO.dll
+D:\K2 - Nam3\XML\LamDeKT\DeKT\BLL\bin\Debug\DAL.pdb
+D:\K2 - Nam3\XML\LamDeKT\DeKT\BLL\bin\Debug\DTO.pdb
+D:\K2 - Nam3\XML\LamDeKT\DeKT\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\K2 - Nam3\XML\LamDeKT\DeKT\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\K2 - Nam3\XML\LamDeKT\DeKT\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\K2 - Nam3\XML\LamDeKT\DeKT\BLL\obj\Debug\BLL.dll
+D:\K2 - Nam3\XML\LamDeKT\DeKT\BLL\obj\Debug\BLL.pdb
